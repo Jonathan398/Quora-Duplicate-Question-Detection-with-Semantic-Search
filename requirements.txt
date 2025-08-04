@@ -1,0 +1,12 @@
+# Core ML/NLP Libraries
+# Pinned to versions consistent with the project report for reproducibility.
+torch==1.12.1
+transformers==4.21.2
+sentence-transformers==2.2.2
+faiss-gpu==1.7.2
+
+# Data Handling & Utilities
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
+tqdm==4.64.1
